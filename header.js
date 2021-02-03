@@ -29,7 +29,7 @@ document.write('\
     <img src="images/elbosque-logo.jpg" class="logo-right">\
   </a>\
   <h1>Web Development</h1>\
-  <h3>Universidad El Bosque, 2021</h3>\
+  <h3>Univ. El Bosque, 2021</h3>\
   <div style="clear:both;"></div>\
 </div>\
 ');
